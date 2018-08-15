@@ -1,0 +1,24 @@
+.searchBar-container{
+    background-image:url('http://cdn.resize.sparkplatform.com/tel/1024x768/true/20151216185018502831000000-o.jpg?2017-12-28');
+    background-repeat: no-repeat;
+    background-size: 99.2%;
+    /* background-color: aliceblue; */
+    width: 100%x;
+    margin-left: 15px;
+    height:500px;
+    padding:10px
+}
+.searchGroup {
+    height: 400px;
+    /* margin: auto; */
+    margin-top: 110px;
+}
+.searchGroup > h4{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 40px;
+    color: white;
+    /* font-weight: bolder */
+}
+img{
+    width:10%;
+}
